@@ -10,3 +10,6 @@ This repository contains the dataset and notebook for DSA 405 Milestone 2.
 
 ## Research Question
 Do U.S. states with higher installed distributed solar capacity experience lower average residential electricity prices over time?
+
+**How to Run:**
+To reproduce this analysis, open the notebook (`DSA405_002_FA26_P2_tkurra.ipynb`) and select "Run All" cells sequentially.
