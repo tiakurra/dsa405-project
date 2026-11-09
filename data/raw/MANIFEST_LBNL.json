@@ -1,0 +1,10 @@
+{
+  "file": "LBNL_distributed_solar_dataset_public.zip",
+  "bytes": 252277242,
+  "sha256": "75f3b4a5cdf6c0188296d97a1955c46ee80e90fcc8a6b2f39c41b7f13e0af8a1",
+  "csv_member": "TTS_LBNL_public_file_28-Jul-2026_all.csv",
+  "csv_bytes": 2423981133,
+  "csv_crc32": "48d8e4ed",
+  "source_short_url": "https://bit.ly/trackingthesun2026",
+  "verified_on": "2026-11-09"
+}
