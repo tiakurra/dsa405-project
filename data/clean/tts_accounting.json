@@ -1,0 +1,9 @@
+{
+  "rows_read": 3995665,
+  "dropped_storage_only": 52922,
+  "dropped_bad_state": 0,
+  "dropped_bad_size": 4913,
+  "dropped_outside_years": 0,
+  "kept": 3937830,
+  "kept_tech_redacted": 230106
+}
