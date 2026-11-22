@@ -37,7 +37,7 @@ REPORT.md                          the P4 written report (9 sections)
 P4_self_scored_rubric.md           self-scored rubric for P4
 DSA405_002_FA26_P4_tkurra.ipynb    P4: raw data to final figure (run this one)
 DSA405_002_FA26_P3_tkurra.ipynb    P3: acquiring the Berkeley Lab file, ethics checks, join design, verification
-DSA405_002_FA26_P21_tkurra.ipynb   P2: EIA audit, cleaning log, data dictionary, provenance brief
+DSA405_002_FA26_P2_tkurra.ipynb    P2: EIA audit, cleaning log, data dictionary, provenance brief
 requirements.txt
 data/raw/                          untouched inputs: EIA raw CSV, MANIFEST_LBNL.json, SOURCES.md (the zip is not committed)
 data/clean/                        derived tables: EIA clean CSV, tts_state_year_capacity.csv, tts_accounting.json
